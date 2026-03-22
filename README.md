@@ -17,4 +17,4 @@ I have covered all the important concepts of HTML in a structured way.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/html-one-shot.git
+   https://github.com/DhananjayMukhiya/HTML-One-Shot.git
